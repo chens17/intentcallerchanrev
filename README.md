@@ -1,5 +1,5 @@
 ## Intent Caller 1.0 
-Tugas PAS, STT Pelita Bangsa Cikarang, Chandra, TI18D5, dengan mengimplementasikan Intent Caller fragment Maps, Phone, Webview & Send Email, Berikut fitur yang sudah diterapkan di project ini
+Tugas UTS, STT Pelita Bangsa Cikarang, Chandra, TI18D5, dengan mengimplementasikan Intent Caller fragment Maps, Phone, Webview & Send Email, Berikut fitur yang sudah diterapkan di project ini
 
 ## Dosen Pengampu
 Bpk. Donny
